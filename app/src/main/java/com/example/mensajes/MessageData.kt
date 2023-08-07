@@ -1,0 +1,22 @@
+package com.example.mensajes
+
+object MessageData {
+    val MessageList = listOf(
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+        Message("Lexi", "Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose features Really exited jetpack compose featuresReally exited jetpack compose features"),
+    )
+}
